@@ -70,8 +70,8 @@ require (
 	github.com/streadway/amqp v0.0.0-20190404075320-75d898a42a94
 	github.com/valyala/tcplisten v0.0.0-20161114210144-ceec8f93295a
 	go.uber.org/atomic v1.3.2
-	golang.org/x/crypto v0.0.0-20191117063200-497ca9f6d64f
-	golang.org/x/sys v0.0.0-20190922100055-0a153f010e69
+	golang.org/x/crypto v0.1.0
+	golang.org/x/sys v0.1.0
 	google.golang.org/api v0.5.0
 	gopkg.in/ldap.v3 v3.0.3
 	gopkg.in/olivere/elastic.v5 v5.0.80
